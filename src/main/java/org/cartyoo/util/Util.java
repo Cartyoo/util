@@ -5,8 +5,6 @@ import org.bukkit.Bukkit;
 import org.bukkit.Statistic;
 import org.bukkit.entity.Player;
 
-import javax.swing.text.html.parser.Entity;
-
 public final class Util extends PlaceholderExpansion {
 
     @Override
