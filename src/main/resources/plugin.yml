@@ -1,0 +1,5 @@
+name: util
+version: '${project.version}'
+main: org.cartyoo.placeholderapiexpansion.PlaceholderAPIExpansion
+api-version: 1.17
+authors: [ Cartyoo ]
